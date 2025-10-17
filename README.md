@@ -2,7 +2,7 @@
 
 💻 I'm a data scientist and tech enthusiast  
 🔗 My home on the net is [austineaero.com](https://austineaero.com)  
-🎥 I share projects, insights and tutorials. Please subscribe if you haven’t already!  
+🎥 I share projects, insights and tutorials. Please follow and subscribe if you haven’t already!  
 🗣️ I enjoy speaking about AI, software and developer culture. Interested in having me speak at your event?  
 📫 Reach me by email at [augustine.osaigbevo@gmail.com](mailto:augustine.osaigbevo@gmail.com)  
 🐤 Find me on Twitter/X [twitter.com/austineaero](https://x.com/austineaero)  
