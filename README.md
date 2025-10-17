@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey 👋 This is Austin
 
-<!--
-**austineaero/austineaero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I'm a data scientist and tech enthusiast  
+🔗 My home on the net is [austineaero.com](https://austineaero.com)  
+🎥 I share projects, insights and tutorials — subscribe if you haven’t yet!  
+🗣️ I enjoy speaking about software, AI and developer culture. Interested in having me speak at your event?  
+📫 Reach me by email at [augustine.osaigbevo@gmail.com](mailto:augustine.osaigbevo@gmail.com)  
+🐤 Find me on Twitter/X [twitter.com/austineaero](https://x.com/austineaero))  
+💼 Connect with me on LinkedIn [https://linkedin.com/in/austineaero](https://www.linkedin.com/in/austin-osaigbevo-162502150/)  
+🤖 I build open source tools that make AI and automation more accessible to data scientists around the world
+💬 I live by the mantra — *code wins arguments*  
+🏠 Based in the UK   
+🌟 Always exploring ML, web dev and systems engineering  
+☕ Support my open-source work via [GitHub Sponsors](https://github.com/sponsors/austineaero)
+Thank you
