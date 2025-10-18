@@ -1,4 +1,4 @@
-## Hey 👋 This is Austin
+## Hey 👋 This is Augustine
 
 - 💻 I'm a data scientist and tech enthusiast  
 - 🔗 My home on the net is [austineaero.com](https://austineaero.com)  
